@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/doom-banner.png" width="100%" alt="Doom"/>
+<img src="assets/doom-banner-wide.jpg" width="100%" alt="Doom"/>
 
 ## Hi 👋, I'm Ronak
 
