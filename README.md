@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02120a,50:0b3d24,100:14532d&height=210&section=header&text=Ronak%20Agarwal&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=EE%20Undergrad%20%40%20NIT%20Silchar%20%C2%B7%20ML%20Builder%20%C2%B7%20Entrepreneurship&descAlignY=60&descSize=19&animation=fadeIn" width="100%"/>
+<img src="assets/doom-banner.png" width="100%" alt="Doom"/>
 
 ## Hi 👋, I'm Ronak
 
