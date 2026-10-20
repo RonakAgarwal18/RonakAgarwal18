@@ -97,7 +97,7 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 
 **ML & Data**
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,streamlit,mysql&theme=dark" alt="ML and data"/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,mysql&theme=dark" alt="ML and data"/>
 
 <sub>scikit-learn · TensorFlow · PyTorch · OpenCV · Streamlit · MySQL</sub>
 
