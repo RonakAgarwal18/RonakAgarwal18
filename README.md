@@ -88,18 +88,11 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 
 </div>
 
-## The snake eats my contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RonakAgarwal18/RonakAgarwal18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
 ---
 
+
 <div align="center">
 
-*Stats, streaks, and the snake on this page are generated live from my activity.*
+*Stats and streaks on this page are generated live from my activity.*
 
 </div>
