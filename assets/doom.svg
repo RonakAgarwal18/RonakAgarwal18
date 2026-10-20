@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480" role="img" aria-label="Hooded armored figure in a green cloak">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#16a34a" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#14532d" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#14532d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c3ccd4"/>
+      <stop offset="45%" stop-color="#8d99a5"/>
+      <stop offset="100%" stop-color="#5d6871"/>
+    </linearGradient>
+    <linearGradient id="steelDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7d8894"/>
+      <stop offset="100%" stop-color="#454f58"/>
+    </linearGradient>
+    <linearGradient id="cloak" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#166534"/>
+      <stop offset="100%" stop-color="#052e16"/>
+    </linearGradient>
+    <filter id="eyeGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.2" fill="#22c55e" opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="480" height="480" fill="url(#dots)"/>
+  <circle cx="240" cy="215" r="205" fill="url(#glow)"/>
+
+  <!-- cloak / shoulders -->
+  <path d="M240 268 C150 268 96 322 66 470 L414 470 C384 322 330 268 240 268 Z" fill="url(#cloak)"/>
+  <path d="M240 268 C196 268 160 292 132 336 C168 306 204 292 240 292 C276 292 312 306 348 336 C320 292 284 268 240 268 Z" fill="#22c55e" opacity="0.20"/>
+
+  <!-- gold chain + clasp -->
+  <path d="M104 356 C160 402 320 402 376 356" fill="none" stroke="#d4af37" stroke-width="7" stroke-linecap="round"/>
+  <path d="M104 372 C160 416 320 416 376 372" fill="none" stroke="#b8912c" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="240" cy="404" r="17" fill="#d4af37"/>
+  <circle cx="240" cy="404" r="10" fill="#14532d"/>
+  <circle cx="240" cy="404" r="5" fill="#4ade80"/>
+
+  <!-- hood -->
+  <path d="M240 26 C158 26 112 96 106 186 C102 246 92 318 66 372 C110 344 128 300 130 240 L350 240 C352 300 370 344 414 372 C388 318 378 246 374 186 C368 96 322 26 240 26 Z" fill="url(#cloak)"/>
+  <path d="M240 26 C186 26 148 66 132 122 C160 76 196 52 240 52 C284 52 320 76 348 122 C332 66 294 26 240 26 Z" fill="#4ade80" opacity="0.18"/>
+  <path d="M240 44 C170 44 128 104 124 190 C121 244 116 292 104 330 C138 300 148 262 149 224 L331 224 C332 262 342 300 376 330 C364 292 359 244 356 190 C352 104 310 44 240 44 Z" fill="#04170b" opacity="0.55"/>
+
+  <!-- mask -->
+  <path d="M240 92 L306 112 L316 196 L302 286 L268 336 L240 348 L212 336 L178 286 L164 196 L174 112 Z" fill="url(#steel)"/>
+  <path d="M240 92 L306 112 L316 196 L302 286 L268 336 L240 348 Z" fill="#ffffff" opacity="0.07"/>
+  <path d="M174 112 L240 92 L240 348 L212 336 L178 286 L164 196 Z" fill="#000000" opacity="0.10"/>
+
+  <!-- forehead plate -->
+  <path d="M182 118 L240 102 L298 118 L302 156 L240 140 L178 156 Z" fill="url(#steelDark)"/>
+  <circle cx="240" cy="118" r="5" fill="#39424a"/>
+  <circle cx="192" cy="128" r="4" fill="#39424a"/>
+  <circle cx="288" cy="128" r="4" fill="#39424a"/>
+
+  <!-- brow ridge -->
+  <path d="M172 176 L308 176 L312 202 L168 202 Z" fill="url(#steelDark)"/>
+
+  <!-- eyes -->
+  <g filter="url(#eyeGlow)" fill="#4ade80">
+    <path d="M184 210 L228 218 L224 232 L188 226 Z"/>
+    <path d="M296 210 L252 218 L256 232 L292 226 Z"/>
+  </g>
+
+  <!-- nose guard -->
+  <path d="M228 202 L252 202 L258 262 L246 282 L234 282 L222 262 Z" fill="url(#steelDark)"/>
+
+  <!-- cheek rivets -->
+  <circle cx="188" cy="256" r="4.5" fill="#39424a"/>
+  <circle cx="292" cy="256" r="4.5" fill="#39424a"/>
+  <circle cx="240" cy="330" r="4" fill="#39424a"/>
+
+  <!-- mouth grille -->
+  <rect x="204" y="292" width="72" height="30" rx="7" fill="#22282e"/>
+  <g fill="#9aa7b1">
+    <rect x="214" y="297" width="5" height="20" rx="2"/>
+    <rect x="226" y="297" width="5" height="20" rx="2"/>
+    <rect x="238" y="297" width="5" height="20" rx="2"/>
+    <rect x="250" y="297" width="5" height="20" rx="2"/>
+    <rect x="262" y="297" width="5" height="20" rx="2"/>
+  </g>
+</svg>
