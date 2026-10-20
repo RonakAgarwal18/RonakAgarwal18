@@ -30,10 +30,6 @@ My focus is the complete foundation a strong software engineer needs — the sam
 - **Full-stack web development** — React frontends, Node.js / NestJS backends
 - **Machine Learning** — applied ML systems, taken end-to-end into real products
 
-**Roles:**
-- **Exec Head** — E-Cell NIT Silchar
-- **Marketing & PR Head** — ML Club NIT Silchar
-
 **What I've built:**
 - **ROScan** — multimodal agent that verifies phone insurance claims from photos
 - **ROSense** — Hinglish support-message triage with an ML classifier + risk engine
@@ -47,6 +43,15 @@ Off the keyboard: movies, gaming, and building in public.
 </td>
 <td valign="top" width="250">
 <img src="assets/doom-about.jpg" width="240" alt="Doom"/>
+
+**Snapshot**
+
+- 📍 **Based in:** Assam, India
+- 🎓 **College:** NIT Silchar — Class of 2028
+- 🏢 **Exec Head** — E-Cell NIT Silchar
+- 🤖 **Marketing & PR Head** — ML Club NIT Silchar
+- 🗣️ **Speaks:** English · Hindi · Marwari · Assamese
+- 🎯 **Open to:** internships & collaborations
 </td>
 </tr>
 </table>
@@ -82,17 +87,25 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css&theme=dark" alt="Languages"/>
 
+<sub>Python · C++ · TypeScript · JavaScript · HTML · CSS</sub>
+
 **Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,tailwind&theme=dark" alt="Web and backend"/>
+
+<sub>React · Node.js · Express · NestJS · Tailwind CSS</sub>
 
 **ML & Data**
 
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,streamlit,mysql&theme=dark" alt="ML and data"/>
 
+<sub>scikit-learn · TensorFlow · PyTorch · OpenCV · Streamlit · MySQL</sub>
+
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,render&theme=dark" alt="Tools and platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools and platforms"/>
+
+<sub>Git · GitHub · VS Code · Docker · Render</sub>
 
 **Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · System Design
 
