@@ -46,7 +46,7 @@ Off the keyboard: movies, gaming, and building in public.
 
 </td>
 <td valign="top" width="250">
-<img src="assets/doom.svg" width="240" alt="Doom"/>
+<img src="assets/doom-about.jpg" width="240" alt="Doom"/>
 </td>
 </tr>
 </table>
@@ -107,18 +107,18 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 <table>
 <tr>
 <td>
-<a href="https://github.com/RonakAgarwal18/ROSCAN-Multimodal-Diagnostic-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=ROSCAN-Multimodal-Diagnostic-Agent&bg_color=0d1117&border_color=238636&title_color=3fb950&text_color=e6edf3" alt="ROScan"/></a>
+<a href="https://github.com/RonakAgarwal18/ROSCAN-Multimodal-Diagnostic-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=ROSCAN-Multimodal-Diagnostic-Agent&theme=github_dark" alt="ROScan"/></a>
 </td>
 <td>
-<a href="https://github.com/RonakAgarwal18/rosense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=rosense&bg_color=0d1117&border_color=238636&title_color=3fb950&text_color=e6edf3" alt="ROSense"/></a>
+<a href="https://github.com/RonakAgarwal18/rosense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=rosense&theme=github_dark" alt="ROSense"/></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/RonakAgarwal18/ROamly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=ROamly&bg_color=0d1117&border_color=238636&title_color=3fb950&text_color=e6edf3" alt="ROamly"/></a>
+<a href="https://github.com/RonakAgarwal18/ROamly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=ROamly&theme=github_dark" alt="ROamly"/></a>
 </td>
 <td>
-<a href="https://github.com/RonakAgarwal18/PromptHeist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=PromptHeist&bg_color=0d1117&border_color=238636&title_color=3fb950&text_color=e6edf3" alt="PromptHeist"/></a>
+<a href="https://github.com/RonakAgarwal18/PromptHeist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RonakAgarwal18&repo=PromptHeist&theme=github_dark" alt="PromptHeist"/></a>
 </td>
 </tr>
 </table>
@@ -136,10 +136,10 @@ Live demos: [ROScan](https://roscan.streamlit.app) · [ROSense](https://rosense.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=RonakAgarwal18&show_icons=true&bg_color=0d1117&border_color=238636&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&ring_color=3fb950&hide_border=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RonakAgarwal18&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
 </td>
 <td>
-<img src="https://streak-stats.demolab.com?user=RonakAgarwal18&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=3FB950&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=RonakAgarwal18&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=C9D1D9&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub streak"/>
 </td>
 </tr>
 </table>
@@ -148,6 +148,3 @@ Live demos: [ROScan](https://roscan.streamlit.app) · [ROSense](https://rosense.
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:0b3d24,100:02120a&height=110&section=footer" width="100%"/>
