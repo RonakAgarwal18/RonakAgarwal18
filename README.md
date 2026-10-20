@@ -10,18 +10,17 @@
 
 I'm **Ronak Agarwal**, a third-year **Electrical Engineering** undergraduate at **NIT Silchar** (Class of 2028), based in Assam, India. I build at the intersection of **machine learning, products, and entrepreneurship**.
 
-- **Exec Head** — E-Cell NIT Silchar · **Marketing & PR Head** — ML Club NIT Silchar
+- **Exec Head** — E-Cell NIT Silchar
+- **Marketing & PR Head** — ML Club NIT Silchar
 - I build ML/AI products end-to-end: **ROScan** (multimodal phone-claim diagnostics), **ROSense** (Hinglish support-message triage), **ROamly** (AI trip planner), **PromptHeist** (AI red-teaming)
-- **1st place, Hack-o-verse 2025** · ML Club Merit Award (top 10% of 200+)
 
 ## Interests
 
 - Machine learning & AI products
 - Startups & entrepreneurship
-- Hackathons & building in public
-- Live music, concerts & college fests
-- Movies (3D, always)
-- Gaming — Steam & Marvel Snap
+- Building in public
+- Movies
+- Gaming
 
 ## How to reach me
 
@@ -29,7 +28,6 @@ I'm **Ronak Agarwal**, a third-year **Electrical Engineering** undergraduate at 
 |---|---|
 | Work email | [ronak.agarwal.work@gmail.com](mailto:ronak.agarwal.work@gmail.com) |
 | College email | [ronak_ug_24@ee.nits.ac.in](mailto:ronak_ug_24@ee.nits.ac.in) |
-| Personal email | [ronak2agarwal2@gmail.com](mailto:ronak2agarwal2@gmail.com) |
 | LinkedIn | [linkedin.com/in/ronakagarwal18](https://www.linkedin.com/in/ronakagarwal18/) |
 | GitHub | [github.com/RonakAgarwal18](https://github.com/RonakAgarwal18) |
 
@@ -41,8 +39,6 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 
 <a href="https://github.com/RonakAgarwal18"><img src="https://img.shields.io/badge/GitHub-RonakAgarwal18-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/ronakagarwal18/"><img src="https://img.shields.io/badge/LinkedIn-ronakagarwal18-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://leetcode.com/u/RonakAgarwal18/"><img src="https://img.shields.io/badge/LeetCode-RonakAgarwal18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://takeuforward.org/profile/Ronak_Agarwal"><img src="https://img.shields.io/badge/TakeUForward-ronak__agarwal-E63946?style=for-the-badge"/></a>
 <a href="https://codeforces.com/profile/ronak2agarwal2"><img src="https://img.shields.io/badge/Codeforces-ronak2agarwal2-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
@@ -56,12 +52,16 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
@@ -84,7 +84,7 @@ For internships, collaborations, hackathons, or E-Cell / ML Club NIT Silchar —
 <img src="https://github-readme-stats.vercel.app/api?username=RonakAgarwal18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
 <img src="https://streak-stats.demolab.com?user=RonakAgarwal18&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakAgarwal18&theme=tokyo-night&hide_border=true" alt="Activity graph" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonakAgarwal18&theme=tokyonight" alt="Profile details" width="95%"/>
 
 </div>
 
