@@ -65,7 +65,7 @@ Off the keyboard: movies, gaming, and building in public.
 <a href="https://github.com/RonakAgarwal18"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="44" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/ronakagarwal18/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" alt="LinkedIn"/></a>
 <a href="mailto:ronak.agarwal.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="44" alt="Gmail"/></a>
-<a href="https://codeforces.com/profile/ronak2agarwal2"><img src="https://skillicons.dev/icons?i=codeforces&theme=dark" height="44" alt="Codeforces"/></a>
+<a href="https://codeforces.com/profile/ronak2agarwal2"><img src="assets/codeforces.svg" height="44" alt="Codeforces"/></a>
 
 **Work:** ronak.agarwal.work@gmail.com &nbsp;·&nbsp; **College:** ronak_ug_24@ee.nits.ac.in
 
